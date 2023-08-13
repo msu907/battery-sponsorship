@@ -1,0 +1,31 @@
+.btn-maroon {
+    background-color: maroon;
+    color: white; /* Set the text color to white so it contrasts with the maroon background */
+    border: none; /* Optional: Remove the default border */
+}
+
+.btn-light-grey {
+    background-color: #d3d3d3; /* Light grey background */
+    color: grey; /* Light grey text */
+    border: none; /* Removes the default border */
+}
+
+.card-img-resized {
+    width: 150px;
+    height: auto; /* Keeps the aspect ratio */
+    padding-top: 20px;
+}
+
+.sponsored-background {
+    background-color: greenyellow;
+}
+
+.card-title-fixed {
+    min-height: 50px; /* Adjust this value based on your needs */
+    max-height: 50px; /* Adjust this value based on your needs */
+    overflow: hidden; /* Hide the overflow if it exceeds the max-height */
+}
+
+.maroon-headline {
+    color: maroon;
+}
